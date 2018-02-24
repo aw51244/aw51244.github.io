@@ -1,5 +1,4 @@
-## Welcome to Amber's Page
-### about Amber
+## about Amber
 Amber Wan is Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide data-driven solutions. 
 
 Believing that effective communication between different functions is the key to make analytics-informed changes happen, Amber speaks the language in business, data science, and modern technology.  
@@ -10,5 +9,5 @@ Amber holds an M.S.W and an L.L.B from the [Renmin University of China](http://w
 
   
 
-### Amber's Work
+## Amber's Work
 1. [Social Network Analysis in R with igraph](https://github.com/aw51244/Social-Network-Analysis).
