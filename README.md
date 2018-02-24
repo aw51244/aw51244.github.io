@@ -1,4 +1,4 @@
-## Welcome to Amber's GitHub Page
+## Welcome to Amber's Page
 ### about Amber
 Amber Wan is Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide data-driven solutions and transformations. 
 
