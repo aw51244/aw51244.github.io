@@ -1,5 +1,5 @@
 ## About Amber
-Amber Wan is Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide analytics-informed solutions. 
+Amber Wan is a Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide analytics-based solutions. 
 
 Believing that effective communication between different domains is the key to make data-driven changes happen, Amber speaks the language in **business**, **data science**, and **technology**.  
 
