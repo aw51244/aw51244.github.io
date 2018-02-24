@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Amber's GitHub Page
+### about Amber
+Amber Wan is Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide data-based insights and solutions.   
+Believing that effective communication between different functions is the key to make data-driven changes happen, Amber speaks the language of business, data analytics, and modern technology.  
+Amber has helped to build the BI system for marketing and sales managers at Astellas Pharma China, the second largest Japanese pharmaceutical manufacturer, and she is assisting doctors at Emory Healthcare to detect and monitor postoperative surgical site infections using Natural Language Processing and machine learning technologies. Amber is also a trained project manager experienced in consulting and research project managing.  
+Amber holds an M.S.W and an L.L.B from the Renmin University of China. She is working towards an M.S. Business Analytics at Emory University's Goizueta Business School now.
 
 You can use the [editor on GitHub](https://github.com/aw51244/aw51244.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Amber's Work
+1. [Social Network Analysis in R with igraph](https://github.com/aw51244/Social-Network-Analysis).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
