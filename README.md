@@ -1,5 +1,5 @@
 ## About Amber
-[Amber Wan](www.linkedin.com/in/amber-wan) is a Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide analytics-based solutions. 
+[Amber Wan](https://www.linkedin.com/in/amber-wan) is a Data Scientist who works with hospitals, pharmaceutical companies, and other healthcare organizations to provide analytics-based solutions. 
 
 Believing that effective communication between different domains is the key to make data-driven changes happen, Amber speaks the language in **business**, **healthcare**, **data science**, and **technology**.  
 
