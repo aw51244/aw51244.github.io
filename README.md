@@ -11,5 +11,5 @@ Amber holds an MSW and an LL.B from the [Renmin University of China](http://www.
 
 ## Amber's Work
 1. [Social Network Analysis in R with igraph](https://github.com/aw51244/Social-Network-Analysis).  
-2. [Targeted Promotion for a Retailer with 400+ Stores with Clustering and Recommendation System](https://github.com/aw51244/Targeted-Promotion-with-Clustering-and-Recommendation-System).  
-3. [Text Mining, Topic Modeling, and Classification on Spark](https://github.com/aw51244/PySpark-Empirical-Exercises)
+2. [Targeted Promotion for a Retailer with 400+ Stores with Clustering and Recommendation System in Python](https://github.com/aw51244/Targeted-Promotion-with-Clustering-and-Recommendation-System).  
+3. [Text Mining, Topic Modeling, and Classification on Spark (Python)](https://github.com/aw51244/PySpark-Empirical-Exercises)
